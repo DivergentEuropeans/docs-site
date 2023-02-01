@@ -82,7 +82,7 @@ zowe
   certificate:
     keystore:
       alias: localhost
-      password:
+      password: password
       file: safkeyring:////ZWESVUSR/ZoweKeyring
       type: JCERACFKS
     truststore:
